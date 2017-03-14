@@ -20,3 +20,17 @@ MSBUILD : error MSB1003: Specify a project or solution file. The current working
       https://www.myget.org/F/aspnetvnext/api/v3/index.json
       C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\
 ```
+
+
+nuget.config at root level is going to be used:
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <packageSources>
+    <add key="AkkaDotNetCore" value="https://www.myget.org/F/akka-netcore/api/v3/index.json" />
+    <add key="NuGet" value="https://api.nuget.org/v3/index.json" />
+  </packageSources>
+</configuration>
+
+```
