@@ -39,3 +39,7 @@ nuget.config at root level is going to be used:
 - clean packages http://stackoverflow.com/questions/30933277/how-to-clear-nuget-package-cache-using-command-line
 - where packages are stored http://stackoverflow.com/questions/35205092/net-core-and-nuget
 - nuget locals global-packages -list
+
+Errors when myget feed is commented out:
+
+C:\Program Files\dotnet\sdk\1.0.0-rc4-004771\NuGet.targets(97,5): error : Unable to resolve 'Akka (>= 1.2.0-alpha1)' for '.NETCoreApp,Version=v1.0'. [C:\Artur\aspnetcore_basketservice\src\BasketService\BasketService.sln]
