@@ -36,3 +36,5 @@ nuget.config at root level is going to be used:
 </configuration>
 
 ```
+- clean packages http://stackoverflow.com/questions/30933277/how-to-clear-nuget-package-cache-using-command-line
+- where packages are stored http://stackoverflow.com/questions/35205092/net-core-and-nuget
