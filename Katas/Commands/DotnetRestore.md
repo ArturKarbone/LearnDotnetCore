@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/dotnet/articles/core/tools/dotnet-restore
+
 - run dotnet restore in empty folder, at project level at solution level
 - see output. pay attention to nuget configs
 
