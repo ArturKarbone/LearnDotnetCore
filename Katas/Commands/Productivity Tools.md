@@ -10,3 +10,20 @@
 - Scope to Project
 - Scope to Folder
 - New Solution Explorer View Left/Right dock (Leverage navigation in multiple projects)
+
+- pin files
+- show in separate row (Environment-> Tabs & Windows)
+- color by project
+
+- Close all but pinned
+
+- Drag out to separate monitor
+- Ctrl+Q - quick launch
+- Ctrl+Q - extensions - disable Power tools
+
+- Scrollbar brakepoints/bookmars/current cursor
+- Scrollbar options -> map mode
+
+- Recent Projects and Solutions
+
+
