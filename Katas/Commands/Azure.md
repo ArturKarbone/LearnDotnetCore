@@ -1,1 +1,2 @@
 - [Change Subscription Name](http://rickrainey.com/windows-azure-how-tos/how-to-change-the-name-of-your-windows-azure-subscription/)
+- In the new portal just search for "subscriptions"
