@@ -22,5 +22,5 @@
 - Scrollbar brakepoints/bookmars/current cursor
 - Scrollbar options -> map mode
 - Recent Projects and Solutions
-
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.QuickLaunchTasks
 
