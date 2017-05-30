@@ -1,5 +1,7 @@
 # An attempt to structurize my .NET Core journey
 
+[Awesome .NET](https://github.com/quozd/awesome-dotnet)
+
 
 ### Actions
 
@@ -42,3 +44,12 @@
 ### Books
 
 ### Public Speaking
+
+### Serverless
+
+- http://dotnetrocks.com/?show=1439
+- http://dotnetrocks.com/?show=1443
+- https://azure.microsoft.com/en-us/resources/samples/
+
+
+
