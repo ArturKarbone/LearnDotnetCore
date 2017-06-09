@@ -2,6 +2,9 @@
 
 [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
+### Azure
+- https://blogs.msdn.microsoft.com/azurecat/2017/01/05/hello-world-welcome-to-azurecat-guidance/
+
 
 ### Actions
 
